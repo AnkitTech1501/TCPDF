@@ -1,0 +1,131 @@
+/* CSS Document */
+
+body {
+margin:0px;
+padding:0px;
+background: #505050 url(../images/bg.gif) repeat;
+}
+p {
+padding:0px;
+margin:0px;
+}
+img {
+border:0px;
+}
+.flt {
+float:left;
+}
+.flt1 {
+float:right;
+}
+.clr {
+clear:left;
+}
+.disp {
+display:inline;
+}
+#mainContainer {
+width:735px;margin:auto;
+}
+#mainContainer1 {
+width:735px;margin:auto;
+}
+
+#tpContainer
+{
+float:left;
+width:733px;
+border-left:1px solid #fff;
+border-right:1px solid #fff;
+background:#0BB6CA;
+padding-bottom:6px;
+}
+
+.logo {
+margin:44px 0 0 40px;
+}
+.tp_icons {
+margin:14px 21px 0 0;
+}
+.tp_search {
+width:143px;
+height:20px;
+border:2px solid #000000;
+}
+.go {
+margin:1px 0 0 8px;
+}
+.tpFont {
+color:#fff;
+text-decoration:none;
+}
+.tp_bar {
+margin:0px 18px 0px 18px;
+}
+.tp_bar {
+margin:0px 14px 0px 14px;
+}
+
+.tp_menu {
+width:713px;height:23px;background:#BB0D09;border:1px solid #fff;padding:12px 0 0 20px;font:11px verdana;color:#fff;
+}
+.tp_menu1 {
+width:691px;height:23px;background:#70675F;padding:12px 0 0 40px;font:11px verdana;color:#CECBC8;border:1px solid #A19692;
+}
+.bt_ftr {
+width:713px;height:51px;background:#BB0D09;padding:12px 0 0 20px;font:11px/14px verdana;color:#fff;
+}
+
+.tp_image,.tp_image1 {
+float:left;
+width:342px;
+height:274px;
+background: url(../images/tp_image.jpg) no-repeat;
+}
+.tp_image1 {
+width:391px;
+background: url(../images/tp_image1.jpg) no-repeat;
+}
+.picgal {
+float:left;
+background: url(../images/tp_pic.gif) no-repeat;width:245px;height:110px;margin:153px 0 0 130px;
+}
+.picgalery {
+margin:10px 60px 0 18px;
+}
+.im1 {
+margin:20px 0 0 12px;
+}
+.im2 {
+margin:20px 0 0 9px;
+}
+.inmain,.inmain1 {
+border:1px solid #fff;width:733px;
+}
+.inmain1 {
+height:28px;background:#FFFF7C;
+}
+.tile {
+width:354px;
+background: url(../images/tile.gif) repeat-y;
+}
+.first_tile {
+background: url(../images/first_tile.gif) repeat-x;width:286px;height:1px;margin:9px 0 0 29px;display:inline;
+}
+.str {
+font:bold 10px/12px verdana;margin:29px 0 0 29px;
+}
+.p_font  {
+font:10px/13px verdana;width:310px;margin:5px 0 0 29px;
+}
+.lt_div {
+width:379px;background:#fff;
+}
+.lt_div1 {
+width:379px;background: url(../images/gray_tile.gif) #DEDEDE repeat-x;
+}
+
+.lt_cont {
+width:328px;margin:18px 0 0 20px;font:10px/13px verdana;
+}
+.lt_bdr {border-bottom:2px solid #FFBB9C}
